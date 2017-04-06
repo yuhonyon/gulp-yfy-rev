@@ -1,7 +1,7 @@
 {
   "name": "gulp-yfy-rev",
   "version": "1.0.2",
-  "description": "静态资源添加hash,根据gulp-asset-rev修改",
+  "description": "静态资源添加hash",
   "license": "MIT",
   "repository": {
     "type": "git",
