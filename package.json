@@ -1,6 +1,6 @@
 {
   "name": "gulp-yfy-rev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "静态资源添加hash,根据gulp-asset-rev修改",
   "license": "MIT",
   "repository": {
@@ -25,8 +25,5 @@
     "gulp": "^3.8.11",
     "gulp-util": "^3.0.0",
     "through2": "^0.6.1"
-  },
-  "homepage": "https://www.npmjs.com/package/gulp-yfy-rev",
-  "_id": "gulp-asset-rev@0.0.15",
-  "_from": "gulp-asset-rev@"
+  }
 }
