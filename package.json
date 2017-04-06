@@ -3,6 +3,9 @@
   "version": "1.0.6",
   "description": "静态资源添加hash",
   "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/yuhonyon/gulp-yfy-rev.git"
